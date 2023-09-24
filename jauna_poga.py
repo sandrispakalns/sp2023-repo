@@ -1,0 +1,1 @@
+Šeit ir teksts
