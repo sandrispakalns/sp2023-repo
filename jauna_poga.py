@@ -2,3 +2,4 @@
 Vēl teksts
 Relīze
 Hotfix
+Jauna fīča
